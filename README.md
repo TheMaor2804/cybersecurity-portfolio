@@ -27,7 +27,7 @@ Simulated enterprise environment with a Windows Server Domain Controller (AD DS 
 - Enterprise Lab Architecture (VirtualBox)
 
 📁 Project Folder:  
-`Active-Directory-Domain-Lab/`
+[Active Directory Domain Lab](./Active-Directory-Domain-Lab)
 
 ---
 
@@ -46,7 +46,7 @@ Security assessment of a simulated e-commerce application focusing on input vali
 - Professional Security Reporting
 
 📁 Project Folder:  
-`Web-App-Security-Assessment-Ecommerce/`
+[Web App Security Assessment Ecommerce](./Web-App-Security-Assessment-Ecommerce)
 
 ---
 
