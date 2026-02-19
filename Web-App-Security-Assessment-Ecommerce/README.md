@@ -22,7 +22,5 @@ Security assessment of a simulated e-commerce web application to identify weakne
 - Burp Suite
 
 ## Deliverables
-- **Report.pdf** – full write-up with evidence and remediation guidance
+- [**Report.pdf**](./Report.pdf) – full write-up with evidence and remediation guidance
 - Screenshots (selected supporting evidence)
-
-> Notes: This project was performed in a controlled environment for skills demonstration.
