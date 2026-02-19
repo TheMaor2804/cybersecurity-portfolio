@@ -93,4 +93,4 @@ It demonstrates practical skills in:
 
 ## 📄 Project Report
 Full documentation and screenshots:  
-**Active-Directory-Domain-Lab-Report.pdf**
+[**Report.pdf**](./Report.pdf)
