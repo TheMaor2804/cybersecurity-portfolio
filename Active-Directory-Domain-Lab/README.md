@@ -1,4 +1,4 @@
-# Active Directory Domain Lab & Security Hardening (Virtual Enterprise)
+# Active Directory Domain Lab & Security Hardening
 
 ## 📌 Project Overview
 This project demonstrates the design and implementation of a simulated enterprise Active Directory environment using VirtualBox.  
